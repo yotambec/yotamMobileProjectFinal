@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<URL>https://buyme.co.il/</URL>
+<packageValue>"il.co.mintapp.buyme"</packageValue>
+    <activityValue>"il.co.mintapp.buyme.activities.common.SplashScreen"</activityValue> 
+    <browser>Chrome</browser>
+</config>
